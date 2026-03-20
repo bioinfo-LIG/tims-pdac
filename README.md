@@ -1,4 +1,4 @@
-# DNA methylation and immune infiltration mediate the impact of tobacco exposure on pancreatic adenocarcinoma outcome: a high-dimensional mediation analysis
+# HDMAX2-surv: high-dimensional mediation analysis of survival data with application to pancreatic cancer
 
 This repository contains all scripts and resources to reproduce the analyses and figures from the manuscript:
 
